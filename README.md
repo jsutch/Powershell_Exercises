@@ -10,7 +10,7 @@ https://github.com/PowerShell/PowerShell
 
 ## Contributors
 
-jeff.sutch@acm.org
+jsdev@collettpark.com
 
 ## License
 PowerShell is licensed under the MIT license.
